@@ -1,0 +1,14 @@
+{/*It contains all the css that will affect every single page*/}
+.App {
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, Helvetica, sans-serif; {/*we are using arial throughout the whole application*/}
+}
+
+body{  {/* our application comes with padding and margin so we remove it so application looks good*/}
+  padding: 0;
+  margin: 0;
+}
+
