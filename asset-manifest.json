@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cake-website/static/css/main.0c23ab28.css",
+    "main.js": "/cake-website/static/js/main.88eb6594.js",
+    "static/js/787.e403dcb9.chunk.js": "/cake-website/static/js/787.e403dcb9.chunk.js",
+    "static/media/multipleCakes.jpg": "/cake-website/static/media/multipleCakes.4a08f17d27f12a3f2908.jpg",
+    "static/media/cakeLogo.png": "/cake-website/static/media/cakeLogo.b40905d6dbb400ff8058.png",
+    "static/media/cake.jpg": "/cake-website/static/media/cake.7b76ab66976ce37672fe.jpg",
+    "static/media/cakeLeft.jpg": "/cake-website/static/media/cakeLeft.d03874188191bc4eefea.jpg",
+    "static/media/forest.jpg": "/cake-website/static/media/forest.f9e93a408e5487fe248a.jpg",
+    "static/media/pineapple.jpg": "/cake-website/static/media/pineapple.f6dfa60ecef91447d16f.jpg",
+    "static/media/chocolate.jpg": "/cake-website/static/media/chocolate.39e2bcdf38de75d0e85b.jpg",
+    "static/media/butter.jpg": "/cake-website/static/media/butter.b187f229445ced2a9a10.jpg",
+    "static/media/red.jpg": "/cake-website/static/media/red.ab6c8c008fe24b74356c.jpg",
+    "static/media/fruit.jpg": "/cake-website/static/media/fruit.63c61d43cf3aa01df0a6.jpg",
+    "index.html": "/cake-website/index.html",
+    "main.0c23ab28.css.map": "/cake-website/static/css/main.0c23ab28.css.map",
+    "main.88eb6594.js.map": "/cake-website/static/js/main.88eb6594.js.map",
+    "787.e403dcb9.chunk.js.map": "/cake-website/static/js/787.e403dcb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c23ab28.css",
+    "static/js/main.88eb6594.js"
+  ]
+}
